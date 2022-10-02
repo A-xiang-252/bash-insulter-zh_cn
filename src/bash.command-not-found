@@ -57,6 +57,14 @@ print_message () {
         "You're proof that god has a sense of humor./你就是上帝有幽默感的证明."
         "Keep trying, someday you'll do something intelligent!/继续努力，总有一天你会做一些聪明的事!"
         "If shit was music, you'd be an orchestra./如果shi是音乐，你会成为一个乐队"
+        "Thanks for the help/谢谢你的帮助"
+        "Awesome/真棒"
+        "You need some time./你需要一些时间."
+        "Good luck!/祝你好运!"
+        "I think that was my fault./我想这是我的错."
+        "Joker/小丑,滑稽的人"
+        "Clown/小丑,滑稽的人"
+        "You are a funny man./你真是个有趣的人."
     )
 
     # If CMD_NOT_FOUND_MSGS array is populated use those messages instead of the defaults
