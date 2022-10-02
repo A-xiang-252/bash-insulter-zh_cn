@@ -1,4 +1,4 @@
-# bash-insulter-中文版
+# bash-insulter-中文(翻译)版
 当输入错误命令时，随机侮辱用户
 
 原项目地址[bash-insulter](https://github.com/hkbakke/bash-insulter)
