@@ -3,7 +3,7 @@
 
 原项目地址[bash-insulter](https://github.com/hkbakke/bash-insulter)
 
-对原项目增加了中文翻译，去掉了一些不合适的内容.
+对原项目增加了中文翻译，去掉了一些不合适的内容，增加了一些内容.
 
 根据你的需要更改嘲讽内容
 
