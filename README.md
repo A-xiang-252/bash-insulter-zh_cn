@@ -1,7 +1,11 @@
-# bash-insulter
-Randomly insults the user when typing wrong command.
+# bash-insulter-中文版
+当输入错误命令时，随机侮辱用户
 
-Change insults as needed :)
+原项目地址[bash-insulter](https://github.com/hkbakke/bash-insulter)
+
+对原项目增加了中文翻译，未增添或减少嘲讽内容
+
+根据你的需要更改嘲讽内容
 
 ```bash
 noob@bender:~ $ sl
@@ -21,11 +25,11 @@ noob@bender:~ $ sp aux
 -bash: sp: command not found
 ```
 
-# Compatibility
+#兼容
 * Bash v4 and newer
 * Zsh
 
-# Installation
+# 安装
 
     # Method 1 - know what you are doing
     git clone https://github.com/hkbakke/bash-insulter.git bash-insulter
