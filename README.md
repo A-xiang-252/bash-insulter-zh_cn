@@ -44,7 +44,7 @@ noob@bender:~ $ sp aux
 
 2.配置
 
-使用编辑器，如 `vim` ，编辑你的 ~/.bashrc 或者 /etc/bash.bashrc 文件
+使用编辑器，如 `vim` ，编辑你的 /etc/bash.bashrc 文件
 
 添加以下内容
 
@@ -53,7 +53,7 @@ if [ -f /etc/bash.command-not-found ]; then
     . /etc/bash.command-not-found
 fi
 ```
-重新登录并输入一些无效的命令来查看效果。
+重新登录（或者执行 `source /etc/bash.bashrc` ）,然后输入一些无效的命令来查看效果。
 
 
 注意: 如果你是用的是 `zsh` ,你必须将脚本添加到 `.zshrc`
